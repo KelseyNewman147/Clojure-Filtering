@@ -10,6 +10,7 @@
   (println "Furniture")
   (println "Toiletries")
   (println "Jewelry")
+  (println "Food")
   (let [purchases (slurp "purchases.csv")
         purchases (str/split-lines purchases)
         purchases (map (fn [line]

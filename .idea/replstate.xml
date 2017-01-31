@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ReplState" timestamp="1485895959514">{:repl-history {:ide [], :local [&quot;(doc pr-str)&quot; &quot;(doc json/write-str)&quot; &quot;(doc file-json)&quot; &quot;(doc json)&quot; &quot;(doc clojure.data.json)&quot; &quot;(-main)&quot;], :remote []}}</component>
+  <component name="ReplState" timestamp="1485896272999">{:repl-history {:ide [], :local [&quot;(doc pr-str)&quot; &quot;(doc json/write-str)&quot; &quot;(doc file-json)&quot; &quot;(doc json)&quot; &quot;(doc clojure.data.json)&quot; &quot;(-main)&quot;], :remote []}}</component>
 </project>
